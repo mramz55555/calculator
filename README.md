@@ -8,9 +8,9 @@ A java calcualtor that can evaluate expression with these tokens:
 
 * separator (for multi var functions) : ,
 
-* arithmetic operators : +,-,/,*,^,
+* arithmetic operators : +,-,/,*,^
 
 * functions : log,tan,cot,cos,sin,sqrt,exp,max,min,ln,mod,! (factorial), abs
 
 
-It uses stack to convret the expression to potfix and then evaluate it. 
+It uses stack to convert the expression to potfix and then evaluate it. 
